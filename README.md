@@ -1,16 +1,19 @@
-## Hi there 👋
+# Oliver Lind Kristiansen
 
-<!--
-**olindkri/olindkri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Staff Engineer (AI)**
+B.Sc. Informatics — Machine Learning
 
-Here are some ideas to get you started:
+I build AI systems with a focus on **local-first infrastructure**, **generative AI**, and practical automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently deep into:
+
+* Local LLMs
+* Agentic workflows
+* RAG systems
+* AI tooling for teams
+* Applied ML / GenAI systems
+* Privacy-conscious AI deployments
+
+I like building sharp, useful systems that move from prototype to production without unnecessary ceremony.
+
+Occasionally building AI-driven solutions for teams and businesses for fun.
